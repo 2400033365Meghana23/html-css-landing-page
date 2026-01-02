@@ -4,11 +4,6 @@
   <b>A simple, colorful, and responsive landing page built using HTML & CSS</b>
 </p>
 
-<p align="center">
-  🎨 Beginner Friendly &nbsp; | &nbsp; 💻 Frontend Project &nbsp; | &nbsp; 🚀 Internship Ready
-</p>
-
----
 
 ## ✨ Project Overview
 This project is a **responsive landing page** created using **HTML and CSS**.  
